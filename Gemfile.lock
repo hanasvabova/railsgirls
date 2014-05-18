@@ -1,3 +1,10 @@
+GIT
+  remote: https://gist.github.com/f1dc8c75d67b92b23a55.git
+  revision: 052de13d5aa1108b71f2caacc72ad888260e91ea
+  specs:
+    carrierwave-blob (0.0.1)
+      carrierwave
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -125,6 +132,7 @@ PLATFORMS
 
 DEPENDENCIES
   carrierwave
+  carrierwave-blob!
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
